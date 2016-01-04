@@ -1,4 +1,4 @@
-# Chapter 6 - Building a Bookstore App
+# Building a Bookstore App
 
 ## About this chapter
 
@@ -15,16 +15,3 @@ During the development process, we will work on the following topics:
 building these components
  * Visually testing the application
 
-## Purchase Book
-
-You can buy **Learning Ionic** from
-* [Packt Publishing](https://www.packtpub.com/application-development/learning-ionic)
-* [Amazon - US](http://www.amazon.com/gp/product/B010BEEIF2)
-* [Amazon - India](http://www.amazon.in/gp/product/B010BEEIF2)
-
-## Change Log
-
-### 1.0.0 (2015-07-22)
-
-Change(s):
- * First release 

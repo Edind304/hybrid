@@ -19,7 +19,7 @@ var CartAPI = {
             _id: mongojs.ObjectId(id)
         }, function(err, user) {
             if (err) {
-                // res, status, data, message, err
+                // res, status, data, message, error
                 respHandler(res, 500, null, 'Oops something went wrong', err);
                 return;
             }
